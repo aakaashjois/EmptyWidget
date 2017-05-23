@@ -1,4 +1,4 @@
-package com.biryanistudio.emptywidget
+package com.biryanistudio.theemptywidget
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
